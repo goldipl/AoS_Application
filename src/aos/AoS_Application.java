@@ -8,7 +8,7 @@ import java.util.Scanner;
  * give us the exact result.
  * Calculations are based on polish standards PN–92/B–01707. 
  * -----------------------------------------------
- * --- AoS Application - Marcin Godlewski 2019 ---
+ * --- AoS Application © Marcin Godlewski 2019 ---
  * ----------------------------------------------- */
 
 public class AoS_Application {
