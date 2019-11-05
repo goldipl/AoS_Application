@@ -1,5 +1,5 @@
 ## Table of contents
-* [App name](#app-name)
+* [Application name](#application-name)
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [License](#license)
