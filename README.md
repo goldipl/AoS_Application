@@ -2,7 +2,7 @@
 * [Application name](#application-name)
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [License](#license)
+* [Author](#author)
 
 ## Application name
 Amount of Sewage App
@@ -16,5 +16,5 @@ Calculations are based on polish standards PN-EN 12056-2.
 Project is created with:
 * Java 11
 
-## License
-© Marcin Godlewski 2019
+## Author
+Marcin Godlewski
