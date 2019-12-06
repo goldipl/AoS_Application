@@ -13,7 +13,7 @@ This program can sum up all flows and give us the exact result.
 Calculations are based on polish standards PN-EN 12056-2.
 	
 ## Technologies
-Project is created with:
+Project was created with:
 * Java 11
 
 ## Author
